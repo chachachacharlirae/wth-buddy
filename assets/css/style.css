@@ -28,8 +28,9 @@
     display: inline;
     
     }
+  
 
-    header a {
+        header a {
         text-decoration: none;
         color: #fce138;
       }
@@ -227,6 +228,7 @@
         }
         
         
+         
         footer {
         background: #fce138;
         width: 100%;
@@ -277,6 +279,7 @@
         right: 140px;
         
         }
+        
          
         .hero-form h3 {
         font-size: 24px;
